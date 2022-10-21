@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "573108077634",
+    "project_id": "f1-dog",
+    "storage_bucket": "f1-dog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573108077634:android:56bba82aed8eb7a0c699db",
+        "android_client_info": {
+          "package_name": "racing.game.f1dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573108077634-nd0n5g6st48j3vag5al4515k48ih7q2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpINNBLFL8NXXIeTglkHrF5MnL1v-gInE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573108077634-nd0n5g6st48j3vag5al4515k48ih7q2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573108077634-hqv7ih99b4iapqunk3bh4o0ua349lie5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "racing.game.f1dog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
